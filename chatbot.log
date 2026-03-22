@@ -1,0 +1,19 @@
+2026-03-22 06:39:53,971 [WARNING] human_loop: TWILIO_ACCOUNT_SID / TWILIO_AUTH_TOKEN not set – running in SIMULATION mode (messages printed, not sent)
+2026-03-22 06:39:53,973 [INFO] human_loop: HumanLoopWorker started (thread=HumanLoopWorker)
+2026-03-22 06:39:55,405 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2026-03-22 06:39:55,405 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-22 06:41:06,942 [INFO] werkzeug: 127.0.0.1 - - [22/Mar/2026 06:41:06] "GET / HTTP/1.1" 200 -
+2026-03-22 06:41:08,659 [INFO] werkzeug: 127.0.0.1 - - [22/Mar/2026 06:41:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-22 06:41:34,422 [INFO] werkzeug: 192.168.1.2 - - [22/Mar/2026 06:41:34] "GET / HTTP/1.1" 200 -
+2026-03-22 06:41:35,474 [INFO] werkzeug: 192.168.1.2 - - [22/Mar/2026 06:41:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-22 06:45:15,290 [WARNING] human_loop: TWILIO_ACCOUNT_SID / TWILIO_AUTH_TOKEN not set – running in SIMULATION mode (messages printed, not sent)
+2026-03-22 06:45:15,291 [INFO] human_loop: HumanLoopWorker started (thread=HumanLoopWorker)
+2026-03-22 06:45:16,686 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2026-03-22 06:45:16,686 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2026-03-22 06:46:52,755 [INFO] werkzeug: 127.0.0.1 - - [22/Mar/2026 06:46:52] "GET / HTTP/1.1" 200 -

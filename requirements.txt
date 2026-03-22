@@ -1,0 +1,11 @@
+# Core
+flask>=3.0,<4.0
+twilio>=9.0,<10.0
+python-dotenv>=1.0
+
+# AI (optional – remove if using placeholder only)
+openai>=1.0
+
+# Production WSGI server
+gunicorn>=21.0       ; sys_platform != "win32"
+waitress>=3.0        ; sys_platform == "win32"
